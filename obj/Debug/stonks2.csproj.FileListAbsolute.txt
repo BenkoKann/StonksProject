@@ -1,0 +1,10 @@
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\bin\Debug\stonks2.exe.config
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\bin\Debug\stonks2.exe
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\bin\Debug\stonks2.pdb
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\obj\Debug\stonks2.csprojAssemblyReference.cache
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\obj\Debug\stonks2.csproj.CoreCompileInputs.cache
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\obj\Debug\stonks2.exe
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\obj\Debug\stonks2.pdb
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\bin\Debug\Colorful.Console.dll
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\obj\Debug\stonks2.csproj.CopyComplete
+C:\Users\aqwxcdrvtb\source\repos\stonks2\stonks2\bin\Debug\Crayon.dll

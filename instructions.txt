@@ -1,0 +1,4 @@
+Use w,a,s,d keys to play.
+ -w/s to navigate up or down
+ -d to buy a stock
+ -s a to sell a stock
