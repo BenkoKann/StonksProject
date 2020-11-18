@@ -1,0 +1,6 @@
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\Portfolio\bin\Debug\Portfolio.dll
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\Portfolio\bin\Debug\Portfolio.pdb
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\Portfolio\obj\Debug\Portfolio.csprojAssemblyReference.cache
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\Portfolio\obj\Debug\Portfolio.pdb

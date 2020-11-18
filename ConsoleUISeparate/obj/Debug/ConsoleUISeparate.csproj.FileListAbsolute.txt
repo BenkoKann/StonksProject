@@ -1,0 +1,12 @@
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\obj\Debug\ConsoleUISeparate.csprojAssemblyReference.cache
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\obj\Debug\ConsoleUISeparate.csproj.CoreCompileInputs.cache
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\ConsoleUISeparate.exe.config
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\ConsoleUISeparate.exe
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\ConsoleUISeparate.pdb
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\MenuUI.dll
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\MenuUI.pdb
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\obj\Debug\ConsoleUISeparate.csproj.CopyComplete
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\obj\Debug\ConsoleUISeparate.exe
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\obj\Debug\ConsoleUISeparate.pdb
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\Portfolio.dll
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\ConsoleUISeparate\bin\Debug\Portfolio.pdb

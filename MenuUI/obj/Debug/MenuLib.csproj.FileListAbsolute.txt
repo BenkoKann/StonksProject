@@ -1,0 +1,6 @@
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\MenuUI\bin\Debug\MenuUI.dll
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\MenuUI\bin\Debug\MenuUI.pdb
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\MenuUI\obj\Debug\MenuLib.csprojAssemblyReference.cache
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\MenuUI\obj\Debug\MenuLib.csproj.CoreCompileInputs.cache
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\MenuUI\obj\Debug\MenuUI.dll
+C:\Users\aqwxcdrvtb\source\repos\StonksV2Separate\MenuUI\obj\Debug\MenuUI.pdb
